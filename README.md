@@ -1,2 +1,3 @@
 # tutorial1-2
-Tutorial 1 and 2 Project
+ACIT 1620 - Tutorial 1 and 2 Assignment
+  HTML/CSS/Javascript = Positions, Background and Interactions
